@@ -1,0 +1,3 @@
+A Body Mass Index (BMI) calculator in Python is a simple tool designed to help users assess their body weight in relation to their height.
+BMI is a widely used metric that categorizes individuals into different weight groups, such as underweight, normal weight, overweight, or obese, based on their BMI value.
+The BMI calculator takes a user's weight and height as inputs, computes the BMI, and then provides feedback based on the calculated value.
